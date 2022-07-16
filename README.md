@@ -2,9 +2,9 @@
 
 
 
-#### Site com apresentação de vendas realizadas
+#### Projeto website de vendas:
 
-####  com envio de SMS :calling: 
+####  Envio de SMS :calling: 
 
 - `Back end Spring` 
 - `Front end React`
