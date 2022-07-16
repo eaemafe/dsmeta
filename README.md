@@ -2,7 +2,9 @@
 
 
 
-#### Site com apresentação de vendas realizadas com envio de SMS
+#### Site com apresentação de vendas realizadas
+
+####  com envio de SMS :calling: 
 
 - `Back end Spring` 
 - `Front end React`
