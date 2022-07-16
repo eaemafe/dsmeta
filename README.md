@@ -1,6 +1,6 @@
-## ![DevSuperior logo](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png)Projeto website de vendas:
+## ![DevSuperior logo](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png) Projeto website de vendas:
 
-#### 
+
 
 ####  Envio de SMS :calling: 
 
