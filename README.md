@@ -1,8 +1,6 @@
-## ![DevSuperior logo](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png) Projeto Semana Spring React ![DevSuperior logo](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png)
+## ![DevSuperior logo](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png)Projeto website de vendas:
 
-
-
-#### Projeto website de vendas:
+#### 
 
 ####  Envio de SMS :calling: 
 
@@ -11,7 +9,7 @@
 - `Java e Spring`
 - `Banco de Dados`
 - `Integração com SMS`
-- `Implantação  no Heroku`
+- `Implantação no Heroku`
 
 
 
